@@ -13,7 +13,7 @@
 ## 🔗 Where to find out more about me
 
 - 🖥️ [My dotfiles repo and machine setup](https://gitlab.com/xinoj/nix-home)
-- 🦊 [GitLab profile](https://gitlab/com/xinoj)
+- 🦊 [GitLab profile](https://gitlab.com/xinoj)
 - 👔 [LinkedIn profile](https://linkedin.com/in/xinoj)
 
 
